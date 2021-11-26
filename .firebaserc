@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "kanbanfire-f4586": {
+      "hosting": {
+        "kanban-fire": [
+          "kanbanfire-f4586"
+        ]
+      }
+    }
+  }
+}
